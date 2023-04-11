@@ -1,21 +1,21 @@
 body{
-    background-color: rgb(168, 6, 6);
+    background-color: rgb(57, 5, 5);
     color: rgb(247, 209, 209);
 }
 
-/* .text-field{
+.text-field{
     width: 800px;
     
 }
 
-.MuiTextField-root{
+/* .MuiTextField-root{
     border-color:  white !important;
 }
 
 .MuiOutlinedInput-notchedOutline{
     border-color: white !important;
- }*/
+ }
 
  #outlined-basic-label{
     color: white !important;
- } 
+ } */
