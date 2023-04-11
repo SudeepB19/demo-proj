@@ -19,7 +19,7 @@ const theme = createTheme({
         primary: 'pink'
       },
       main: '#ffbf00'
-    },
+    }, 
 
   },
 
